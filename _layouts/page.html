@@ -1,0 +1,16 @@
+---
+layout: default
+---
+
+<div class="container">
+  <header>
+    {% include brand.html %}
+    {% include nav.html includeHome="true" %}
+  </header>
+
+  <div class="content">
+    {{content}}
+  </div>
+</div>
+
+{% include footer.html %}
