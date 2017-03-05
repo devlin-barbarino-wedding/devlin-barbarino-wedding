@@ -2,4 +2,4 @@
 layout: page
 ---
 
-Coming soon ...
+October in wine country is very busy
