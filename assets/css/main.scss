@@ -1,9 +1,15 @@
 ---
 ---
 
+// general layouts and includes CSS
 @import "style";
 @import "brand";
 @import "nav";
+@import "footer";
+
+// page CSS
 @import "splash";
+
+// vender CSS
 @import "vendor/font-awesome/font-awesome";
 @import "vendor/open-color";
