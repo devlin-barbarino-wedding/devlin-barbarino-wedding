@@ -8,7 +8,7 @@ __We will be offering a shuttle service going to and from the wedding venue from
 
 Hotels, motels, B&Bs and AirBnBs are all available in the area around our venue. However, please be aware that almost everywhere in Wine Country requires a two-night minimum stay (i.e. Friday and Saturday nights). If you are interested in staying only Saturday night, the Super 8 in Cloverdale offers one-night stays in clean and comfortable accommodations with good reviews.
 
-If you do plan on staying overnight in the area, the Barbarino family will be hosting a drop-in Sunday brunch in Geyserville following the wedding. Please see the Venue tab for information. 
+If you do plan on staying overnight in the area, the Barbarino family will be hosting a drop-in Sunday brunch in Geyserville following the wedding. All are welcome to stop by anytime from 10am to 1pm. Location information will be provided in the formal invitations.
 
 ---
 
