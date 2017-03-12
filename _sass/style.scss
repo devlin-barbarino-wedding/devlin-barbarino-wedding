@@ -42,5 +42,11 @@ body {
 
 .pictures {
   margin: 2rem auto;
-  max-width: 800px;
+}
+
+@media (max-width: 575px) {
+  // Strange behaviour when screen is small - pictures are huge
+  .pictures {
+    max-width: 300px;
+  }
 }
