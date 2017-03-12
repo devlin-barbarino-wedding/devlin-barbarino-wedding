@@ -1,0 +1,29 @@
+.wedding-party {
+
+  &__image {
+    width: 100px;
+  }
+
+  &__person {
+    margin-bottom: 2rem;
+  }
+
+
+  .wedding-party__person:nth-child(even) {
+
+    .wedding-party__image {
+      float: right;
+      margin-left: 1rem;
+    }
+
+  }
+
+  .wedding-party__person:nth-child(odd) {
+
+    .wedding-party__image {
+      float: left;
+      margin-right: 1rem;
+    }
+  }
+
+}
