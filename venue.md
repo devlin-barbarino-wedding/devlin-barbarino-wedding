@@ -9,8 +9,8 @@ Geyserville, CA 95441
 
 __Ceremony and Reception Information:__
 
-Ceremony time: 5pm
-Dress code: Cocktail Attire
+Ceremony time: 5pm  
+Dress code: Cocktail attire
 
 __Farewell Brunch Information:__
 
