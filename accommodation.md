@@ -6,11 +6,9 @@ layout: page
 
 __October is a busy time of year in California wine country. We _highly_ recommend that you book accommodation as soon as possible if you will be attending the wedding. See below for hotel options and suggestions.__
 
-__We are planning to offer a shuttle service from the Best Western Dry Creek Inn in Healdsburg and the Super 8 in Cloverdale (you will not need to be staying in these hotels to use the shuttle). Please fill out the survey on the right, as this will help us adjust shuttle locations and sizes accordingly.__
+__We are planning to offer a shuttle service Healdsburg and Cloverdale. Please fill out the survey on the right, as this will help us adjust shuttle locations and sizes.__
 
-Please be aware that almost everywhere in wine country requires a two-night minimum stay (i.e. Friday and Saturday nights). If you are interested in staying only Saturday night, the Super 8 in Cloverdale offers one-night stays in clean and comfortable accommodations.
-
-If you plan on staying overnight in the area, the Barbarino family will be hosting a casual drop-in Sunday brunch in Geyserville following the wedding. All are welcome to stop by; further information will be provided in the formal invitations.
+Be aware that almost everywhere in wine country requires a two-night minimum stay. If you are interested in staying only Saturday night, the Super 8 in Cloverdale offers one-night stays. 
 
 ---
 
