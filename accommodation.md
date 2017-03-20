@@ -4,7 +4,7 @@ layout: page
 
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSc4LUBJdf3FR41kHDTAR4zeZOESXPeAvf292VEiAuPqzRyqBA/viewform?embedded=true" width="400" height="400" frameborder="0" marginheight="0" marginwidth="0" style="float: right; margin: 0 0 1em 1em">Loading...</iframe>
 
-__October is a busy time of year in California wine country. We _highly_ recommend that you book accommodation as soon as possible if you will be attending the wedding. See below for hotel options and suggestions.__
+__October is a busy time of year in California wine country. We _highly_ recommend that you book accommodation as soon as possible. See below for hotel options and suggestions.__
 
 __We are planning to offer a shuttle service Healdsburg and Cloverdale. Please fill out the survey on the right, as this will help us adjust shuttle locations and sizes.__
 
