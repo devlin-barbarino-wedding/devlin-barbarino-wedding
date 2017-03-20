@@ -2,13 +2,16 @@
 layout: page
 ---
 
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSc4LUBJdf3FR41kHDTAR4zeZOESXPeAvf292VEiAuPqzRyqBA/viewform?embedded=true" width="400" height="400" frameborder="0" marginheight="0" marginwidth="0" style="float: right; margin: 0 0 1em 1em">Loading...</iframe>
+<div class="survey-container">
 
-__October is a busy time of year in California wine country. We _highly_ recommend that you book accommodation as soon as possible. See below for hotel options and suggestions.__
+  <div class="first-paragraph">
+    <p><strong>October is a busy time of year in California wine country. We <em>highly</em> recommend that you book accommodation as soon as possible. See below for hotel options and suggestions.</strong></p>
+    <p><strong>We are planning to offer a shuttle service from Healdsburg and Cloverdale. Please fill out the shuttle survey, as this will help us adjust shuttle locations and sizes.</strong></p>
+    <p>Be aware that almost everywhere in wine country requires a two-night minimum stay. If you are interested in staying only Saturday night, the Super 8 in Cloverdale offers one-night stays.</p>
+  </div>
+  <iframe class="survey" src="https://docs.google.com/forms/d/e/1FAIpQLSc4LUBJdf3FR41kHDTAR4zeZOESXPeAvf292VEiAuPqzRyqBA/viewform?embedded=true" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
 
-__We are planning to offer a shuttle service from Healdsburg and Cloverdale. Please fill out the shuttle survey, as this will help us adjust shuttle locations and sizes.__
-
-Be aware that almost everywhere in wine country requires a two-night minimum stay. If you are interested in staying only Saturday night, the Super 8 in Cloverdale offers one-night stays. 
+</div>
 
 ---
 
@@ -26,7 +29,7 @@ __A selection of options in Healdsburg__:
 
 [Hotel Les Mars](https://www.hotellesmars.com/) - Luxurious accommodations in downtown Healdsburg. Rooms start at $725/night excluding tax. [_TripAdvisor reviews_](https://www.tripadvisor.com/Hotel_Review-g32482-d577327-Reviews-Hotel_Les_Mars_Relais_Chateaux-Healdsburg_Sonoma_County_California.html)
 
-There are also a number of cute and cozy B&Bs in Healdsburg. You can search for these on Google Maps, or The Healdsburg Chamber of Commerce maintains a [full list](http://business.healdsburg.com/list/ql/lodging-travel-15?c=&q=&t=5&st=3#mn-directory-searchresults). Prices for B&Bs tend to start in the low $300-per-night range. 
+There are also a number of cute and cozy B&Bs in Healdsburg. You can search for these on Google Maps, or The Healdsburg Chamber of Commerce maintains a [full list](http://business.healdsburg.com/list/ql/lodging-travel-15?c=&q=&t=5&st=3#mn-directory-searchresults). Prices for B&Bs tend to start in the low $300-per-night range.
 
 ---
 
