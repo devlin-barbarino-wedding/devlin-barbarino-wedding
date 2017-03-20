@@ -6,7 +6,7 @@ layout: page
 
 __October is a busy time of year in California wine country. We _highly_ recommend that you book accommodation as soon as possible. See below for hotel options and suggestions.__
 
-__We are planning to offer a shuttle service Healdsburg and Cloverdale. Please fill out the survey on the right, as this will help us adjust shuttle locations and sizes.__
+__We are planning to offer a shuttle service from Healdsburg and Cloverdale. Please fill out the survey on the right, as this will help us adjust shuttle locations and sizes.__
 
 Be aware that almost everywhere in wine country requires a two-night minimum stay. If you are interested in staying only Saturday night, the Super 8 in Cloverdale offers one-night stays. 
 
