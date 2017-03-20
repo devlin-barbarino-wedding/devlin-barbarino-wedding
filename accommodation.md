@@ -4,25 +4,25 @@ layout: page
 
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSc4LUBJdf3FR41kHDTAR4zeZOESXPeAvf292VEiAuPqzRyqBA/viewform?embedded=true" width="400" height="400" frameborder="0" marginheight="0" marginwidth="0" style="float: right; margin: 0 0 1em 1em">Loading...</iframe>
 
-__October in California Wine Country is a beautiful time of year, but it is also very busy. We highly recommend that you book accommodation as soon as possible if you will be attending the wedding, especially if you plan on staying at the Super 8.__
+__October is a busy time of year in California wine country. We _highly_ recommend that you book accommodation as soon as possible if you will be attending the wedding. See below for hotel options and suggestions.__
 
-__We will be offering a shuttle service going to and from the wedding venue from the Super 8 in Cloverdale and the Best Western Dry Creek Inn in Healdsburg. Shuttles are available to everyone - you do not need to stay in either of these hotels to use them. Further information on shuttle departure times will be provided within the formal invitations, and will also be updated on this page.__
+__We are planning to offer a shuttle service from the Best Western Dry Creek Inn in Healdsburg and the Super 8 in Cloverdale (you will not need to be staying in these hotels to use the shuttle). Please fill out the survey on the right, as this will help us adjust shuttle locations and sizes accordingly.__
 
-Hotels, motels, B&Bs and AirBnBs are all available in the area around our venue. However, please be aware that almost everywhere in Wine Country requires a two-night minimum stay (i.e. Friday and Saturday nights). If you are interested in staying only Saturday night, the Super 8 in Cloverdale offers one-night stays in clean and comfortable accommodations with good reviews.
+Please be aware that almost everywhere in wine country requires a two-night minimum stay (i.e. Friday and Saturday nights). If you are interested in staying only Saturday night, the Super 8 in Cloverdale offers one-night stays in clean and comfortable accommodations.
 
-If you do plan on staying overnight in the area, the Barbarino family will be hosting a drop-in Sunday brunch in Geyserville following the wedding. All are welcome to stop by anytime from 10am to 1pm. Location information will be provided in the formal invitations.
+If you plan on staying overnight in the area, the Barbarino family will be hosting a casual drop-in Sunday brunch in Geyserville following the wedding. All are welcome to stop by; further information will be provided in the formal invitations.
 
 ---
 
 __Option in Geyserville__:
 
-[The Geyserville Inn](http://www.geyservilleinn.com/) - Lovely hotel three-quarters of a mile from the venue (a 15 minute walk or 2 minute drive). Rooms are $319/night excluding tax (AAA discount available). [_TripAdvisor reviews_](https://www.tripadvisor.com/Hotel_Review-g32427-d248139-Reviews-Geyserville_Inn-Geyserville_Sonoma_County_California.html)
+[The Geyserville Inn](http://www.geyservilleinn.com/) - Lovely hotel three-quarters of a mile from the venue (15 minute walk or 2 minute drive). Rooms are $319/night excluding tax (AAA discount available). [_TripAdvisor reviews_](https://www.tripadvisor.com/Hotel_Review-g32427-d248139-Reviews-Geyserville_Inn-Geyserville_Sonoma_County_California.html)
 
 ---
 
 __A selection of options in Healdsburg__:
 
-[L&M Motel](http://landmmotel.com/) - Family-run motel close to downtown Healdsburg with great reviews. [_TripAdvisor reviews_](https://www.tripadvisor.com/Hotel_Review-g32482-d1102470-Reviews-L_M_Motel-Healdsburg_Sonoma_County_California.html)
+[L&M Motel](http://landmmotel.com/) - Family-run motel close to downtown Healdsburg with good reviews. [_TripAdvisor reviews_](https://www.tripadvisor.com/Hotel_Review-g32482-d1102470-Reviews-L_M_Motel-Healdsburg_Sonoma_County_California.html)
 
 [Best Western Dry Creek Inn](http://www.drycreekinn.com/) - Rooms at $299/night excluding tax (AAA discount available). [_TripAdvisor reviews_](https://www.tripadvisor.com/Hotel_Review-g32482-d77196-Reviews-BEST_WESTERN_Dry_Creek_Inn-Healdsburg_Sonoma_County_California.html)
 
@@ -34,4 +34,4 @@ There are also a number of cute and cozy B&Bs in Healdsburg. You can search for 
 
 __Option in Cloverdale__:
 
-[Super 8](https://www.wyndhamhotels.com/super-8/cloverdale-california/super-8-cloverdale-ca/overview?cid=fe:se:20161215:tabl:pp:seus:13922&tel=18005361211) - Simple accommodations that allow a one-night stay. Rooms start at $130/night excluding tax. [_TripAdvisor reviews_]((https://www.tripadvisor.com/Hotel_Review-g32224-d634332-Reviews-Super_8_Cloverdale-Cloverdale_Sonoma_County_California.html))
+[Super 8](https://www.wyndhamhotels.com/super-8/cloverdale-california/super-8-cloverdale-ca/overview?cid=fe:se:20161215:tabl:pp:seus:13922&tel=18005361211) - Simple but comfortable accommodations that allow a one-night stay. Rooms start at $130/night excluding tax. [_TripAdvisor reviews_](https://www.tripadvisor.com/Hotel_Review-g32224-d634332-Reviews-Super_8_Cloverdale-Cloverdale_Sonoma_County_California.html)
