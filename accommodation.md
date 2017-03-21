@@ -2,15 +2,11 @@
 layout: page
 ---
 
-<div class="survey-container">
-  <div class="first-paragraph">
-    <p><strong>October is a busy time of year in California wine country. We highly recommend that you book accommodation as soon as possible. See below for hotel options and suggestions.</strong></p>
-    <p><strong>We will be offering a shuttle service from the Best Western Dry Creek Inn in Healdsburg. Information on times will be  </strong></p>
-    <p>Please be aware that almost everywhere in wine country requires a two-night minimum stay. If you are interested in staying only Saturday night, the Super 8 in Cloverdale and the America's Best Value Inn and Suites in Healdsburg both offer one-night stays.</p>
-  </div>
-  <iframe class="survey" src="https://docs.google.com/forms/d/e/1FAIpQLSc4LUBJdf3FR41kHDTAR4zeZOESXPeAvf292VEiAuPqzRyqBA/viewform?embedded=true" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
+__October is a busy time of year in California wine country. We highly recommend that you book accommodation as soon as possible. See below for hotel options and suggestions.__
 
-</div>
+__We will be offering a shuttle service from the Best Western Dry Creek Inn in Healdsburg. Information on times will be__
+
+Please be aware that almost everywhere in wine country requires a two-night minimum stay. If you are interested in staying only Saturday night, the Super 8 in Cloverdale and the America's Best Value Inn and Suites in Healdsburg both offer one-night stays.
 
 ---
 
