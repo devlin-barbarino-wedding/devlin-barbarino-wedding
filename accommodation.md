@@ -4,7 +4,7 @@ layout: page
 
 __October is a busy time of year in California wine country. We highly recommend that you book accommodation as soon as possible. See below for hotel options and suggestions.__
 
-__We will be offering a shuttle service from the Best Western Dry Creek Inn in Healdsburg. All are welcome to use the shuttle, you do not need to be staying at the hotel. Information on shuttle times will be updated on our website and provided in the formal invitations.__
+__We will be offering a shuttle service from the America's Best Value Inn and Suites, and the Best Western Dry Creek Inn in Healdsburg. All are welcome to use the shuttle - you do not need to be staying at either of these hotels. Information on shuttle times will be updated on our website and provided in the formal invitations.__
 
 Uber and Lyft are available in Healdsburg and the surrounding area, but may not be as common as in places such as San Francisco or the Napa Valley. Please leave yourself extra time if you are booking a ride-sharing service. 
 
@@ -21,13 +21,13 @@ __Option in Geyserville__:
 
 __A selection of options in Healdsburg__:
 
-[L&M Motel](http://landmmotel.com/) - Family-run motel close to downtown Healdsburg with good reviews. [_TripAdvisor reviews_](https://www.tripadvisor.com/Hotel_Review-g32482-d1102470-Reviews-L_M_Motel-Healdsburg_Sonoma_County_California.html)
+[L&M Motel](http://landmmotel.com/) - Family-run motel close to downtown Healdsburg with good reviews. Next to America's Best Value Inn and Suites, where the shuttle service will pick up and drop off. [_TripAdvisor reviews_](https://www.tripadvisor.com/Hotel_Review-g32482-d1102470-Reviews-L_M_Motel-Healdsburg_Sonoma_County_California.html)
 
-[Best Western Dry Creek Inn](http://www.drycreekinn.com/) - Rooms are $299/night excluding tax (AAA discount available). [_TripAdvisor reviews_](https://www.tripadvisor.com/Hotel_Review-g32482-d77196-Reviews-BEST_WESTERN_Dry_Creek_Inn-Healdsburg_Sonoma_County_California.html)
+[Best Western Dry Creek Inn](http://www.drycreekinn.com/) - Rooms are $299/night excluding tax (AAA discount available). Shuttle service will pick up and drop off from this location. [_TripAdvisor reviews_](https://www.tripadvisor.com/Hotel_Review-g32482-d77196-Reviews-BEST_WESTERN_Dry_Creek_Inn-Healdsburg_Sonoma_County_California.html)
 
 [Hotel Les Mars](https://www.hotellesmars.com/) - Luxurious accommodations in downtown Healdsburg. Rooms start at $725/night excluding tax. [_TripAdvisor reviews_](https://www.tripadvisor.com/Hotel_Review-g32482-d577327-Reviews-Hotel_Les_Mars_Relais_Chateaux-Healdsburg_Sonoma_County_California.html)
 
-[America's Best Value Inn and Suites](http://www.vantagehotels.com/hotel-details.cfm?idp=822) - Rooms start at $169/night excluding tax. [_TripAdvisor reviews_](https://www.tripadvisor.com/Hotel_Review-g32482-d490923-Reviews-Americas_Best_Value_Inn_Suites-Healdsburg_Sonoma_County_California.html)
+[America's Best Value Inn and Suites](http://www.vantagehotels.com/hotel-details.cfm?idp=822) - Rooms start at $169/night excluding tax. Shuttle service will pick up and drop off from this location. [_TripAdvisor reviews_](https://www.tripadvisor.com/Hotel_Review-g32482-d490923-Reviews-Americas_Best_Value_Inn_Suites-Healdsburg_Sonoma_County_California.html)
 
 There are also a number of cute and cozy B&Bs in Healdsburg. You can search for these on Google Maps, or The Healdsburg Chamber of Commerce maintains a [full list](http://business.healdsburg.com/list/ql/lodging-travel-15?c=&q=&t=5&st=3#mn-directory-searchresults). Prices for B&Bs tend to start around $250/night.
 
