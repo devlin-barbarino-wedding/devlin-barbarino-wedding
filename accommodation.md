@@ -4,9 +4,12 @@ layout: page
 
 __October is a busy time of year in California wine country. We highly recommend that you book accommodation as soon as possible. See below for hotel options and suggestions.__
 
-__We will be offering a shuttle service from the Best Western Dry Creek Inn in Healdsburg. Information on times will be__
+__We will be offering a shuttle service from the Best Western Dry Creek Inn in Healdsburg. You do not need to be staying at the hotel to use the shuttle. Information on times will be updated on this page and provided in the formal invitations.__
+
+Uber and Lyft are available in Healdsburg and the surrounding area, but may not be as common as in places such as San Francisco or the Napa Valley. Please leave yourself extra time if you are booking a ride-sharing service. 
 
 Please be aware that almost everywhere in wine country requires a two-night minimum stay. If you are interested in staying only Saturday night, the Super 8 in Cloverdale and the America's Best Value Inn and Suites in Healdsburg both offer one-night stays.
+
 
 ---
 
@@ -24,9 +27,9 @@ __A selection of options in Healdsburg__:
 
 [Hotel Les Mars](https://www.hotellesmars.com/) - Luxurious accommodations in downtown Healdsburg. Rooms start at $725/night excluding tax. [_TripAdvisor reviews_](https://www.tripadvisor.com/Hotel_Review-g32482-d577327-Reviews-Hotel_Les_Mars_Relais_Chateaux-Healdsburg_Sonoma_County_California.html)
 
-[America's Best Value Inn and Suites](http://www.vantagehotels.com/hotel-details.cfm?idp=822) - Rooms at $169/night excluding tax. [_TripAdvisor reviews_](https://www.tripadvisor.com/Hotel_Review-g32482-d490923-Reviews-Americas_Best_Value_Inn_Suites-Healdsburg_Sonoma_County_California.html)
+[America's Best Value Inn and Suites](http://www.vantagehotels.com/hotel-details.cfm?idp=822) - Rooms start at $169/night excluding tax. [_TripAdvisor reviews_](https://www.tripadvisor.com/Hotel_Review-g32482-d490923-Reviews-Americas_Best_Value_Inn_Suites-Healdsburg_Sonoma_County_California.html)
 
-There are also a number of cute and cozy B&Bs in Healdsburg. You can search for these on Google Maps, or The Healdsburg Chamber of Commerce maintains a [full list](http://business.healdsburg.com/list/ql/lodging-travel-15?c=&q=&t=5&st=3#mn-directory-searchresults). Prices for B&Bs tend to start in the low $300-per-night range.
+There are also a number of cute and cozy B&Bs in Healdsburg. You can search for these on Google Maps, or The Healdsburg Chamber of Commerce maintains a [full list](http://business.healdsburg.com/list/ql/lodging-travel-15?c=&q=&t=5&st=3#mn-directory-searchresults). Prices for B&Bs tend to start around $250/night.
 
 ---
 
