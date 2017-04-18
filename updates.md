@@ -2,3 +2,5 @@
 layout: page
 ---
 
+- If you are coming from out of town and are planning on staying in San Francisco, please be aware that Uber and Lyft are readily available to get from the airport to San Francisco, and for travel anywhere around the city. If you want to avoid renting a car, you can use Uber or Lyft to get to and from Healdsburg. Despite the distance, this is not uncommon, as people in San Francisco do use these services to get up to wine country, such as for a weekend trip. Departing from San Francisco you can book a trip in advance using [Uber](https://www.uber.com/info/scheduled-rides/) or [Lyft](https://help.lyft.com/hc/en-us/articles/213584118-Can-I-Schedule-a-Ride-in-Advance-).When returning to San Francisco you won't be able to book in advance, but can request a ride through the normal fashion. Please leave yourself extra time when booking Uber or Lyft in the Healdsburg area as compared to the San Francisco area; cars are readily available in Healdsburg, but aren't as plentiful as in San Francisco. 
+
