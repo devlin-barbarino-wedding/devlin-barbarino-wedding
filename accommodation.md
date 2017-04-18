@@ -6,8 +6,6 @@ __October is a busy time of year in California wine country. We highly recommend
 
 __We will be offering a shuttle service from the America's Best Value Inn and Suites, and the Best Western Dry Creek Inn in Healdsburg. All are welcome to use the shuttle - you do not need to be staying at either of these hotels. Information on shuttle times will be updated on our website and provided in the formal invitations.__
 
-Uber and Lyft are available in Healdsburg and the surrounding area, but may not be as common as in places such as San Francisco or the Napa Valley. Please leave yourself extra time if you are booking a ride-sharing service. 
-
 Please be aware that almost everywhere in wine country requires a two-night minimum stay. If you are interested in staying only Saturday night, the Super 8 in Cloverdale and the America's Best Value Inn and Suites in Healdsburg both offer one-night stays.
 
 
