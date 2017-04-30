@@ -14,5 +14,6 @@
 
   & .nav-active {
     border-bottom: 1px solid grey;
+    margin-bottom: -1px; // So border is on nav border-bottom
   }
 }
