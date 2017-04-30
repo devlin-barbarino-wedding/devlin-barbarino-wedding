@@ -11,4 +11,8 @@
   a:hover {
     color: #003e7c;
   }
+
+  & .nav-active {
+    box-shadow: 0 1px grey;
+  }
 }

@@ -1,9 +1,14 @@
+{% assign nav_classes="flex-sm-fill text-sm-center nav-link" %}
+{% assign pages = "Updates|Accommodation|About Us|Wedding Party|Venue|Honeymoon|Registry" | split: "|" %}
+
 <nav class="nav flex-wrap justify-content-center">
-  <a class="flex-sm-fill text-sm-center nav-link" href="/updates">Updates</a>
-  <a class="flex-sm-fill text-sm-center nav-link" href="/accommodation">Accommodation</a>
-  <a class="flex-sm-fill text-sm-center nav-link" href="/about-us">About Us</a>
-  <a class="flex-sm-fill text-sm-center nav-link" href="/wedding-party">Wedding Party</a>
-  <a class="flex-sm-fill text-sm-center nav-link" href="/venue">Venue</a>
-  <a class="flex-sm-fill text-sm-center nav-link" href="/honeymoon">Honeymoon</a>
-  <a class="flex-sm-fill text-sm-center nav-link" href="/registry">Registry</a>
+  {% for item in pages %}
+    {% assign slugged_item = item | slugify | strip %}
+    {% assign filtered_url = page.url | remove: ".html" | remove: "/" | strip %}
+    {%if slugged_item != filtered_url %}
+      <a class="{{nav_classes}}" href="/{{ item | slugify }}">{{ item }}</a>
+    {% else %}
+      <a class="{{nav_classes}} nav-active" href="/{{ item | slugify }}">{{ item }}</a>
+    {% endif %}
+  {% endfor %}
 </nav>
