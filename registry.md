@@ -6,8 +6,16 @@ For our registry, we decided to go with a couple of unique San Francisco stores:
 
 We have also chosen Sur La Table for all the essential items (ice cream maker!) that we're missing in the kitchen.
 
-[Biordi's](https://www.biordi.com/wedding-registry/shop/findRegistry.php)
+<div style="margin-top: 2em">
+	<p class="text-center">
+		<a href="https://www.biordi.com/wedding-registry/shop/findRegistry.php">Biordi's</a>
+	</p>
 
-[Samuel Scheuer Linens](http://www.scheuerlinens.com/webtexgiftregistry/index/registry/id/SE87PGY9TFHA/) 
+	<p class="text-center">
+		<a href="http://www.scheuerlinens.com/webtexgiftregistry/index/registry/id/SE87PGY9TFHA/">Samuel Scheuer Linens</a>
+	</p>
 
-[Sur La Table](https://www.surlatable.com/category/cat360423/Find+a+Registry)
+	<p class="text-center">
+		<a href="https://www.surlatable.com/category/cat360423/Find+a+Registry">Sur La Table</a>
+	</p>
+</div>
