@@ -2,7 +2,7 @@
 layout: page
 ---
 
-For our registry, we have decided to go with a couple unique San Francisco stores: Biordi's, which has been importing beautiful ceramics from Italy since 1946, and Scheuer's, which has been selling linens since 1935. 
+For our registry, we decided to go with a couple unique San Francisco stores: Biordi's, which has been importing beautiful ceramics from Italy since 1946, and Scheuer's, which has been selling linens since 1935. 
 
 We have also chosen Sur La Table for all the essential items (ice cream maker!) that we're missing in the kitchen.
 
