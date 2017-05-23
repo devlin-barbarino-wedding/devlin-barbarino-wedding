@@ -8,7 +8,7 @@ We have also chosen Sur La Table for all the essential items (ice cream maker!) 
 
 <div style="margin-top: 2em">
 	<p class="text-center">
-		<a href="https://www.biordi.com/wedding-registry/shop/findRegistry.php">Biordi's</a>
+		<a href="https://www.biordi.com/wedding-registry/shop/findRegistry.php">Biordi Art Imports</a>
 	</p>
 
 	<p class="text-center">
