@@ -2,7 +2,7 @@
 layout: page
 ---
 
-For our registry, we decided to go with a couple of stores unique to San Francisco: Biordi's, which has been importing beautiful ceramics from Italy since 1946, and Scheuer's, which has been selling the best bedding and towels in town since 1935. Biordi's and Scheuer's hold a special place in Julia's heart as her family have been buying ceramics and linens from them for four generations.
+For our registry, we decided to go with a couple of stores unique to San Francisco: Biordi's, which has been importing beautiful ceramics from Italy since 1946, and Scheuer's, which has been selling the best bedding and towels in town since 1935. 
 
 We have also chosen Sur La Table for all the essential items (ice cream maker!) that we're missing in the kitchen.
 
