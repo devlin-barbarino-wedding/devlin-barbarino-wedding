@@ -10,7 +10,7 @@ layout: page
 	A shuttle will return to these locations at __9:15pm__, __10:00pm__ and __11:00pm__   
 	_All are welcome to use the shuttle, you do not need to be staying at these hotels_
 
-- __Driving and Parking:__ If you plan on driving to the wedding on Saturday using Highway 101, please leave plenty of extra time as there may be traffic through the Petaluma and Santa Rosa areas. Parkung is available on the street or at a free public lot 300 feet north of the venue on Geyserville Avenue. 
+- __Driving and Parking:__ If you plan on driving to the wedding on Saturday using Highway 101, please leave plenty of extra time as there may be traffic through the Petaluma and Santa Rosa areas. Parking is available on the street or at a free public lot 300 feet north of the venue on Geyserville Avenue. 
 
 - __Ride-sharing services:__ Uber or Lyft are available to get around Healdsburg or Geyserville, but are not as common as in San Francisco or other parts of the Bay Area. Please leave a bit of extra time if booking a ride-sharing service. Uber and Lyft can be used to get to Geyserville or Healdsburg from San Francisco. Cost is approximately ~$100-$130 for a car that fits 4 people.
 
