@@ -6,10 +6,8 @@ layout: page
 
 - __Shuttle:__  
 	A shuttle will depart from [America's Best Value Inn and Suites, Healdsburg](https://www.redlion.com/healdsburg) at __4:00pm__ and __4:30pm__
-	  
 	A shuttle will depart [Best Western Dry Creek Inn, Healdsburg](http://www.drycreekinn.com/) at __4:05pm__ and __4:35pm__
-	  
-	A shuttle will return to these locations at 9:15pm, 10:00pm and 11:00pm  
+	A shuttle will return to these locations at __9:15pm__, __10:00pm__ and __11:00pm__ 
 	_All are welcome to use the shuttle, you do not need to be staying at these hotels._
 
 - __Driving and Parking:__ If you plan on driving to the wedding on Saturday using Highway 101, please leave plenty of extra time as there may be traffic through the Petaluma and Santa Rosa areas. Parkung is available on the street or at a free public lot 300 feet north of the venue on Geyserville Avenue. 
