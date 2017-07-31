@@ -1,6 +1,26 @@
 ---
 layout: page
 ---
-- __May 22nd__ - Our registries are now available under the "Registry" tab. 
 
-- __April 17th__ - If you are coming from out of town and are planning on staying in San Francisco, please be aware that Uber and Lyft are readily available to get from the airport to San Francisco, and for travel anywhere around the city. If you want to avoid renting a car entirely, you can use Uber or Lyft to get to and from Healdsburg or Geyserville. Departing from San Francisco you can book a trip in advance using [Uber](https://www.uber.com/info/scheduled-rides/) or [Lyft](https://help.lyft.com/hc/en-us/articles/213584118-Can-I-Schedule-a-Ride-in-Advance-). When returning to San Francisco you won't be able to book in advance, but can request a ride through the normal fashion. Please leave yourself extra time when booking a trip back from Healdsburg or Geyserville, as rides aren't as common as in San Francisco. Cost is typically ~$100-130 each way for a car that fits up to 4 people. 
+- Note: October is a busy time of year in California wine country. We highly recommend that you book accommodation as soon as possible. See the "Accommodation" tab for hotel options and suggestions.
+
+- Shuttle: 
+	A shuttle will depart from [America's Best Value Inn and Suites, Healdsburg](https://www.redlion.com/healdsburg) at 4:00pm and 4:30pm. 
+	A shuttle will depart [Best Western Dry Creek Inn, Healdsburg](http://www.drycreekinn.com/) at 4:05pm and 4:35pm
+	A shuttle will return to these locations at 9:15pm, 10:00pm and 11:00pm.
+	_All are welcome to use the shuttle, you do not need to be staying at these hotels._
+
+- Driving and Parking: If you plan on driving to the wedding on Saturday using Highway 101, please leave plenty of extra time as there may be traffic through the Petaluma and Santa Rosa areas. Parkung is available on the street or at a free public lot 300 feet north of the venue on Geyserville Avenue. 
+
+- Ride-sharing service: Uber or Lyft are available to get around Healdsburg or Geyserville, but are not as readily available as in San Francisco or other parts of the Bay Area. Please leave extra time if booking a ride-sharing service. Uber and Lyft can be used to get to Geyserville or Healdsburg from San Francisco. Cost is approximately ~$100-$130 for a car that fits 4 people.
+
+- Venue Information: 
+	[Catelli's Restaurant](http://www.mycatellis.com/)
+	21047 Geyserville Avenue
+	Geyserville, CA 95441.
+
+- Attire: Cocktail attire. Outdoor ceremony and reception.
+
+- [Geyserville Gun Club](https://www.geyservillegunclub.com/), 100 feet south of the venue on Geyserville Avenue, is open until 12:30am, for those wishing to carry on after the wedding.
+
+- Farewell brunch: The Barbarino family will be hosting a casual drop-in brunch from 10am to 1pm in Geyserville on Sunday morning. All are welcome to attend. Please refer to your invitation for the address.
