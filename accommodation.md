@@ -2,12 +2,6 @@
 layout: page
 ---
 
-<div class="text-center">
- <p><strong>October is a busy time of year in California wine country. We highly recommend that you book accommodation as soon as possible. See below for hotel options and suggestions.</strong></p>
-
- <p><strong>We will be offering a shuttle service from the America's Best Value Inn and Suites, and the Best Western Dry Creek Inn in Healdsburg. All are welcome to use the shuttle - you do not need to be staying at either of these hotels. Information on shuttle times will be updated on our website and provided in the formal invitations.</strong></p>
-</div>
-
 Please be aware that almost everywhere in wine country requires a two-night minimum stay. If you are interested in staying only Saturday night, the Super 8 in Cloverdale and the America's Best Value Inn and Suites in Healdsburg both offer one-night stays.
 
 
