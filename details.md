@@ -12,7 +12,7 @@ layout: page
 
 - __Driving and Parking:__ If you plan on driving to the wedding on Saturday using Highway 101, please leave plenty of extra time as there may be traffic through the Petaluma and Santa Rosa areas. Parking is available on the street or at a free public lot 300 feet north of the venue on Geyserville Avenue. 
 
-- __Ride-sharing services:__ Uber or Lyft are available to get around Healdsburg or Geyserville, but are not as common as in San Francisco or other parts of the Bay Area. Please leave a bit of extra time if booking a ride-sharing service. Uber and Lyft can be used to get to Geyserville or Healdsburg from San Francisco. Cost is approximately ~$100-$130 for a car that fits 4 people.
+- __Ride-sharing Services:__ Uber or Lyft are available to get around Healdsburg or Geyserville, but are not as common as in San Francisco or other parts of the Bay Area. Please leave a bit of extra time if booking a ride-sharing service. Uber and Lyft can be used to get to Geyserville or Healdsburg from San Francisco. Cost is approximately ~$100-$130 for a car that fits 4 people.
 
 - __Venue:__  
 	[Catelli's Restaurant](http://www.mycatellis.com/)  
@@ -25,4 +25,4 @@ layout: page
 
 - __[Geyserville Gun Club](https://www.geyservillegunclub.com/)__, 100 feet south of the venue on Geyserville Avenue, is open until 12:30am, for those wishing to carry on after the wedding.
 
-- __Farewell brunch:__ The Barbarino family is hosting a casual drop-in brunch from 10am to 1pm in Geyserville on Sunday morning. All are welcome to attend. Please refer to your invitation for the address.
+- __Farewell Brunch:__ The Barbarino family is hosting a casual drop-in brunch from 10am to 1pm in Geyserville on Sunday morning. All are welcome to attend. Please refer to your invitation for the address.
