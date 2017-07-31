@@ -21,7 +21,7 @@ layout: page
 	21047 Geyserville Avenue  
 	Geyserville, CA 95441  
 
-- __Attire:__ Cocktail attire. Outdoor ceremony and reception
+- __Attire:__ Cocktail attire. Outdoor ceremony and reception. 
 
 - __[Geyserville Gun Club](https://www.geyservillegunclub.com/)__, 100 feet south of the venue on Geyserville Avenue, is open until 12:30am, for those wishing to carry on after the wedding.
 
