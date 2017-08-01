@@ -25,4 +25,4 @@ layout: page
 
 - __[Geyserville Gun Club](https://www.geyservillegunclub.com/)__, 100 feet south of the venue on Geyserville Avenue, is open until 12:30am, for those wishing to carry on after the wedding.
 
-- __Farewell Brunch:__ The Barbarino family is hosting a casual drop-in brunch from 10am to 1pm in Geyserville on Sunday morning. All are welcome to attend. Please refer to your invitation for the address.
+- __Farewell Brunch:__ Please refer to your invitation for details on the Farewell Brunch on Sunday morning.
