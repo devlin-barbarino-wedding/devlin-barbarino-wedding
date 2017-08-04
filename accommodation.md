@@ -8,9 +8,7 @@ ___Update on August 4th - America's Best Value Inn and Suites is currently sold 
 - ___Super 8 in Cloverdale, 10 minutes north of the venue (see below)___
 - ___Hotels in Santa Rosa, 25 minutes south of the venue___
 
-___However, you may want to consider making a weekend of it! Healdsburg is an adorable town with great restaurants and fun shops, and is surrounded by beautiful scenery and vineyards. The L&M Motel (see below) is an excellent alternative of similar value to America's Best Value Inn and Suites, and it's right next door, so it's ideal for the shuttle service! See below for some other suggestions in Healdsburg and Geyserville if you are making it a weekend trip.___
-
-___Remember, everyone is welcome to use the shuttle that leaves from America's Best Value Inn and Suites and the Best Western Dry Creek Inn___
+___However, you may want to consider making a weekend of it! Healdsburg is an adorable town with great restaurants and fun shops, and is surrounded by beautiful scenery and vineyards. The L&M Motel (see below) is an excellent alternative of similar cost to America's Best Value Inn and Suites, and it's right next door, so it's ideal for the shuttle service! See below for some other suggestions in Healdsburg and Geyserville if you are making it a weekend trip.___
 
 ---
 
