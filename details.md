@@ -3,7 +3,7 @@ layout: page
 ---
 
 - __Note:__ October is a busy time of year in California wine country. We highly recommend that you book accommodation as soon as possible.  
-    - ___Update on August 4th - America's Best Value Inn and Suites is currently sold out for the night of October 14th. See the "Accommodation" tab for additional options.___
+    - ___Update on August 4th - America's Best Value Inn and Suites is currently sold out for the night of October 14th. See the "Accommodation" tab for additional options.___  
     
 - __Shuttle:__  
 	Shuttle will depart from [America's Best Value Inn and Suites, Healdsburg](https://www.redlion.com/healdsburg) at __4:00pm__ and __4:30pm__  
