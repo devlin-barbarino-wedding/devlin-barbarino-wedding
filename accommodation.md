@@ -4,7 +4,7 @@ layout: page
 
 Please be aware that almost everywhere in wine country requires a two-night minimum stay. If you are interested in staying only Saturday night, the Super 8 in Cloverdale and the America's Best Value Inn and Suites in Healdsburg both offer one-night stays.
 
-___Update on August 4th - America's Best Value Inn and Suites is currently sold out for October 14th. If you are looking to stay only one night, here are a couple options:___  
+___Update on August 4th - America's Best Value Inn and Suites is almost sold out for October 14th. Please call the hotel to check for available rooms at 1-888-433-5548. If it is sold out when you call, and you are looking to stay only one night, here are a couple options:___  
 - ___Super 8 in Cloverdale, 10 minutes north of the venue (see below)___
 - ___Hotels in Santa Rosa, 25 minutes south of the venue___
 
@@ -26,7 +26,7 @@ __A selection of options in Healdsburg__:
 
 [Hotel Les Mars](https://www.hotellesmars.com/) - Luxurious accommodations in downtown Healdsburg. Rooms start at $725/night excluding tax. [_TripAdvisor reviews_](https://www.tripadvisor.com/Hotel_Review-g32482-d577327-Reviews-Hotel_Les_Mars_Relais_Chateaux-Healdsburg_Sonoma_County_California.html)
 
-[America's Best Value Inn and Suites](http://www.vantagehotels.com/hotel-details.cfm?idp=822) - Rooms start at $169/night excluding tax. Shuttle service will pick up and drop off from this location. [_TripAdvisor reviews_](https://www.tripadvisor.com/Hotel_Review-g32482-d490923-Reviews-Americas_Best_Value_Inn_Suites-Healdsburg_Sonoma_County_California.html) - __CURRENTLY SOLD OUT__
+[America's Best Value Inn and Suites](http://www.vantagehotels.com/hotel-details.cfm?idp=822) - Rooms start at $169/night excluding tax. Shuttle service will pick up and drop off from this location. [_TripAdvisor reviews_](https://www.tripadvisor.com/Hotel_Review-g32482-d490923-Reviews-Americas_Best_Value_Inn_Suites-Healdsburg_Sonoma_County_California.html)
 
 There are also a number of cute and cozy B&Bs in Healdsburg. You can search for these on Google Maps, or The Healdsburg Chamber of Commerce maintains a [full list](http://business.healdsburg.com/list/ql/lodging-travel-15?c=&q=&t=5&st=3#mn-directory-searchresults). Prices for B&Bs tend to start around $250/night.
 

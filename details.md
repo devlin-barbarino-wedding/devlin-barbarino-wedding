@@ -3,7 +3,7 @@ layout: page
 ---
 
 - __Note:__ October is a busy time of year in California wine country. We highly recommend that you book accommodation as soon as possible.  
-    - ___Update on August 4th - America's Best Value Inn and Suites is currently sold out for the night of October 14th. See the "Accommodation" tab for additional options.___  
+    - ___Update on August 4th - America's Best Value Inn and Suites is almost sold out for the night of October 14th - please call the hotel to check for any available rooms at 1-888-433-5548. If sold out, please see the "Accommodation" tab for additional options.___  
 
 ---
 
