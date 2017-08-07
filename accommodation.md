@@ -4,7 +4,7 @@ layout: page
 
 Please be aware that almost everywhere in wine country requires a two-night minimum stay. If you are interested in staying only Saturday night, the Super 8 in Cloverdale and the America's Best Value Inn and Suites in Healdsburg both offer one-night stays.
 
-___Update on August 4th - America's Best Value Inn and Suites is almost sold out for October 14th. Please call the hotel to check for available rooms at 1-888-433-5548. If it is sold out when you call, and you are looking to stay only one night, here are a couple options:___  
+___Update on August 4th - America's Best Value Inn and Suites is almost sold out for October 14th - please call the hotel to check for available rooms at 1-888-433-5548. If it is sold out when you call, and you are looking to stay only one night, here are a couple options:___  
 - ___Super 8 in Cloverdale, 10 minutes north of the venue (see below)___
 - ___Hotels in Santa Rosa, 25 minutes south of the venue___
 
