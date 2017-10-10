@@ -2,7 +2,7 @@
 layout: page
 ---
 
-- __Update on October 10th: Currently our wedding venue is safe from the fires, as is the town of Healdsburg. If you are booked to stay in Geyserville or Healdsburg, you may want to just quickly check in with your hotel, to be on the safe side. Any guests who planned to stay in Northern Santa Rosa should definitely check the status of their accommodation. Right now we expect our wedding to go ahead on time and as planned on Saturday! We will post updates on this page if the situation changes.__  
+- __Update on October 10th: Currently our wedding venue is safe from the fires, as is the town of Healdsburg. If you are booked to stay in Geyserville or Healdsburg, you may want to just quickly check in with your hotel, to be on the safe side. Any guests who planned to stay in Northern Santa Rosa should definitely check the status of their accommodation. The wedding will be going ahead on time and as planned on Saturday! See you all soon.__  
 
 ---
 
