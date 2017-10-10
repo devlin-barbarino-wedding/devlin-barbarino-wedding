@@ -2,8 +2,7 @@
 layout: page
 ---
 
-- __Note:__ October is a busy time of year in California wine country. We highly recommend that you book accommodation as soon as possible.  
-    - ___Update on August 4th - America's Best Value Inn and Suites is almost sold out for the night of October 14th - please call the hotel to check for any available rooms at 1-888-433-5548. If sold out, please see the "Accommodation" tab for additional options.___  
+- __Update on October 10th: Currently our wedding venue is safe from the fires, as is the town of Healdsburg. If you are booked to stay in Geyserville or Healdsburg, you may want to just quickly check in with your hotel, to be on the safe side. Any guests who planned to stay in Northern Santa Rosa should definitely check the status of their accommodation. Right now we expect our wedding to go ahead on time and as planned on Saturday! We will post updates on this page if the situation changes.__  
 
 ---
 
